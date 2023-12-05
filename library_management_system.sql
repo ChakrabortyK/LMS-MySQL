@@ -141,7 +141,8 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`user_id`, `name`, `phone`, `email`, `is_admin`, `password`, `address`, `gender`) VALUES
 (1, 'Kalpak', '9062107205', 'kalpak@gmail.com', 1, '1234', 'Birati', 'Male'),
-(2, 'Nilakash', '9564887434', 'nilakash@gmail.com', 0, 'yellow', 'Basirhat', 'Male'),(4, 'Koushik', '9641208388', 'koushik@outlook.com', 0, 'horse', 'Mirpur 13, Dhaka', 'Male'),
+(2, 'Nilakash', '9564887434', 'nilakash@gmail.com', 0, 'yellow', 'Basirhat', 'Male'),
+(4, 'Koushik', '9641208388', 'koushik@outlook.com', 0, 'horse', 'Mirpur 13, Dhaka', 'Male'),
 (5, 'Shimi', '01723645289', 'shimi@gmail.com', 0, 'abcd', 'Uttara, Sector 13', 'Female'),
 (6, 'Jhuma', '01782963175', 'fjhuma@gmail.com', 0, 'qwerty', 'Banani, Chairman Bari', 'Female'),
 (7, 'Istiak', '01932478293', 'istiakisha69@gmail.com', 0, 'istiak', 'Baily Road', 'Male'),
